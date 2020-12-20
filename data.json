@@ -1,0 +1,623 @@
+{
+    "nhits": 16,
+    "parameters": {
+        "dataset": "export_alimconfiance",
+        "timezone": "UTC",
+        "rows": 507,
+        "start": 0,
+        "format": "json",
+        "facet": [
+            "filtre",
+            "app_libelle_activite_etablissement",
+            "libelle_commune",
+            "synthese_eval_sanit",
+            "date_inspection",
+            "ods_type_activite"
+        ]
+    },
+    "records": [
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "d30c7037c74a9f9287f4b718320b8a44d10c3c0f",
+            "fields": {
+                "code_postal": "76042",
+                "geores": [
+                    49.450505,
+                    1.05113
+                ],
+                "app_libelle_etablissement": "AU GIBIER DE FRANCE",
+                "numero_inspection": "19-101506-1",
+                "date_inspection": "2019-12-24T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "31723793100033",
+                "ods_type_activite": "Abattoirs",
+                "agrement": "76540019",
+                "app_libelle_activite_etablissement": "Traitement du gibier sauvage",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.05113,
+                    49.450505
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "6072955d8852d981668bf97880150903a7ba77cd",
+            "fields": {
+                "code_postal": "76038",
+                "filtre": "Restauration collective",
+                "geores": [
+                    49.427037,
+                    1.082112
+                ],
+                "numero_inspection": "20-036772-1",
+                "siret": "17350120600630",
+                "date_inspection": "2020-06-23T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "app_libelle_etablissement": "MAISON D'ARRET DE ROUEN",
+                "ods_type_activite": "Autres",
+                "agrement": "76540002",
+                "app_libelle_activite_etablissement": "Restauration collective, cuisine centrale et traiteur agr\u00e9\u00e9",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.082112,
+                    49.427037
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "1e72c5d5151fc82f50f0ce563a715697625a3ffc",
+            "fields": {
+                "code_postal": "76000",
+                "geores": [
+                    49.450195,
+                    1.051836
+                ],
+                "app_libelle_etablissement": "ROUEN MAREE",
+                "numero_inspection": "19-115395-1",
+                "date_inspection": "2019-12-27T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "78811596200011",
+                "ods_type_activite": "Produits de la mer et d'eau douce",
+                "agrement": "76540031",
+                "app_libelle_activite_etablissement": "Mareyage et pr\u00e9paration de produits de la p\u00eache",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.051836,
+                    49.450195
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "62a115cee844dbf112b0762bd51b01115ea01fa7",
+            "fields": {
+                "geores": [
+                    49.440355,
+                    1.128407
+                ],
+                "code_postal": "76000",
+                "date_inspection": "2020-09-08T00:00:00+00:00",
+                "app_libelle_etablissement": "GALAXY",
+                "numero_inspection": "20-056588-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "79194054700015",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.128407,
+                    49.440355
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "ab24c9369a1c700fc0e6f1ae38a554b2bbd83d59",
+            "fields": {
+                "code_postal": "76000",
+                "filtre": "Restauration collective",
+                "geores": [
+                    49.449357,
+                    1.049035
+                ],
+                "numero_inspection": "20-031805-1",
+                "siret": "84176248700020",
+                "date_inspection": "2020-06-03T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "app_libelle_etablissement": "SAVEURS SANS",
+                "ods_type_activite": "Autres",
+                "agrement": "76540003",
+                "app_libelle_activite_etablissement": "Restauration collective, cuisine centrale et traiteur agr\u00e9\u00e9",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.049035,
+                    49.449357
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "c9d45fd7c578ec4aec3b66c0489dc75dcdaa48b3",
+            "fields": {
+                "code_postal": "76000",
+                "geores": [
+                    49.450195,
+                    1.051836
+                ],
+                "app_libelle_etablissement": "ROUEN MAREE",
+                "numero_inspection": "19-115443-1",
+                "date_inspection": "2019-12-27T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "78811596200011",
+                "ods_type_activite": "Produits de la mer et d'eau douce",
+                "agrement": "76540031",
+                "app_libelle_activite_etablissement": "Vivier produits de la p\u00eache",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.051836,
+                    49.450195
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "c389a0fcfecfb740b1b31f94469706c3dc48eaae",
+            "fields": {
+                "code_postal": "76042",
+                "geores": [
+                    49.450506,
+                    1.051131
+                ],
+                "app_libelle_etablissement": "AU GIBIER DE FRANCE",
+                "numero_inspection": "19-115083-1",
+                "date_inspection": "2019-12-24T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "31723793100033",
+                "ods_type_activite": "Viandes et produits carn\u00e9s",
+                "agrement": "76540019",
+                "app_libelle_activite_etablissement": "D\u00e9coupe de viandes de volailles/lagomorphe",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.051131,
+                    49.450506
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "d4e96f9be52f540e20f7e350aebcf0216e316c35",
+            "fields": {
+                "geores": [
+                    49.442892,
+                    1.092263
+                ],
+                "code_postal": "76000",
+                "date_inspection": "2019-12-26T00:00:00+00:00",
+                "app_libelle_etablissement": "PASCALINE RESTAURANTS SA",
+                "numero_inspection": "19-115238-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "31792911500028",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.092263,
+                    49.442892
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "26a20f379383f3eac88bc40e40790074ba9d6dcc",
+            "fields": {
+                "code_postal": "76000",
+                "geores": [
+                    49.450195,
+                    1.051836
+                ],
+                "app_libelle_etablissement": "ROUEN MAREE",
+                "numero_inspection": "19-115427-1",
+                "date_inspection": "2019-12-27T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "78811596200011",
+                "ods_type_activite": "Produits de la mer et d'eau douce",
+                "agrement": "76540031",
+                "app_libelle_activite_etablissement": "Mareyage et pr\u00e9paration de produits de la p\u00eache",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.051836,
+                    49.450195
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "ee7264415f33cbe978d828846e6a2a28192953c3",
+            "fields": {
+                "geores": [
+                    49.434829,
+                    1.08589
+                ],
+                "code_postal": "76100",
+                "date_inspection": "2020-09-16T00:00:00+00:00",
+                "app_libelle_etablissement": "GHANDI",
+                "numero_inspection": "20-060342-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "80194655900011",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.08589,
+                    49.434829
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "39c63778f583aaa20bdf304f888c654d482c12f8",
+            "fields": {
+                "code_postal": "76000",
+                "geores": [
+                    49.450504,
+                    1.140853
+                ],
+                "app_libelle_etablissement": "CENTRE DE FORMATION D'APPRENTIS DE ROUEN",
+                "numero_inspection": "20-063849-1",
+                "date_inspection": "2020-09-30T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "18760006900129",
+                "ods_type_activite": "Viandes et produits carn\u00e9s",
+                "agrement": "76540039",
+                "app_libelle_activite_etablissement": "D\u00e9coupe de viande de boucherie",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.140853,
+                    49.450504
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "a85137db471a085f82075ea28877f6caeaf88e89",
+            "fields": {
+                "geores": [
+                    49.442075,
+                    1.094566
+                ],
+                "code_postal": "76000",
+                "date_inspection": "2020-10-09T00:00:00+00:00",
+                "app_libelle_etablissement": "SUBWAY",
+                "numero_inspection": "20-067513-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "84805019100016",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.094566,
+                    49.442075
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "680c95a8c6b6f18b04c808c8613e797ab5e202ee",
+            "fields": {
+                "geores": [
+                    49.432636,
+                    1.087649
+                ],
+                "code_postal": "76100",
+                "date_inspection": "2020-11-25T00:00:00+00:00",
+                "app_libelle_etablissement": "LA GRANDE CHARCUTERIE",
+                "numero_inspection": "20-081635-1",
+                "filtre": "Boucherie-Charcuterie",
+                "libelle_commune": "Rouen",
+                "siret": "88170077700017",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Boucherie-Charcuterie",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.087649,
+                    49.432636
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "c0bdc1b723d41e3094da6e7999137a7c6309255f",
+            "fields": {
+                "code_postal": "76042",
+                "app_libelle_etablissement": "TRANSGOURMET",
+                "agrement": "76540071",
+                "numero_inspection": "20-031811-1",
+                "date_inspection": "2020-06-03T00:00:00+00:00",
+                "libelle_commune": "Rouen",
+                "siret": "43392733200646",
+                "ods_type_activite": "Transport et entreposage de denr\u00e9es alimentaires",
+                "app_libelle_activite_etablissement": "Entreposage non sp\u00e9cialis\u00e9 de denr\u00e9es alimentaires",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "37282f455d9eeb42b34c77f489ac3b3010589161",
+            "fields": {
+                "geores": [
+                    49.443922,
+                    1.09238
+                ],
+                "code_postal": "76000",
+                "date_inspection": "2020-01-27T00:00:00+00:00",
+                "app_libelle_etablissement": "H & E",
+                "numero_inspection": "20-010008-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "83520370400027",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.09238,
+                    49.443922
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        },
+        {
+            "datasetid": "export_alimconfiance",
+            "recordid": "2b675ac68ed3db26beee23a88bcbb77d8f19102c",
+            "fields": {
+                "geores": [
+                    49.44399,
+                    1.075437
+                ],
+                "code_postal": "76000",
+                "date_inspection": "2020-01-14T00:00:00+00:00",
+                "app_libelle_etablissement": "LE DRAGON GOURMAND",
+                "numero_inspection": "20-002743-1",
+                "filtre": "Restaurant",
+                "libelle_commune": "Rouen",
+                "siret": "43937253300042",
+                "ods_type_activite": "Autres",
+                "app_libelle_activite_etablissement": "Restaurant",
+                "synthese_eval_sanit": "Tr\u00e8s satisfaisant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.075437,
+                    49.44399
+                ]
+            },
+            "record_timestamp": "2020-12-11T01:12:00+00:00"
+        }
+    ],
+    "facet_groups": [
+        {
+            "facets": [
+                {
+                    "count": 6,
+                    "path": "Restaurant",
+                    "state": "displayed",
+                    "name": "Restaurant"
+                },
+                {
+                    "count": 2,
+                    "path": "Mareyage et pr\u00e9paration de produits de la p\u00eache",
+                    "state": "displayed",
+                    "name": "Mareyage et pr\u00e9paration de produits de la p\u00eache"
+                },
+                {
+                    "count": 2,
+                    "path": "Restauration collective, cuisine centrale et traiteur agr\u00e9\u00e9",
+                    "state": "displayed",
+                    "name": "Restauration collective, cuisine centrale et traiteur agr\u00e9\u00e9"
+                },
+                {
+                    "count": 1,
+                    "path": "Boucherie-Charcuterie",
+                    "state": "displayed",
+                    "name": "Boucherie-Charcuterie"
+                },
+                {
+                    "count": 1,
+                    "path": "D\u00e9coupe de viande de boucherie",
+                    "state": "displayed",
+                    "name": "D\u00e9coupe de viande de boucherie"
+                },
+                {
+                    "count": 1,
+                    "path": "D\u00e9coupe de viandes de volailles/lagomorphe",
+                    "state": "displayed",
+                    "name": "D\u00e9coupe de viandes de volailles/lagomorphe"
+                },
+                {
+                    "count": 1,
+                    "path": "Entreposage non sp\u00e9cialis\u00e9 de denr\u00e9es alimentaires",
+                    "state": "displayed",
+                    "name": "Entreposage non sp\u00e9cialis\u00e9 de denr\u00e9es alimentaires"
+                },
+                {
+                    "count": 1,
+                    "path": "Traitement du gibier sauvage",
+                    "state": "displayed",
+                    "name": "Traitement du gibier sauvage"
+                },
+                {
+                    "count": 1,
+                    "path": "Vivier produits de la p\u00eache",
+                    "state": "displayed",
+                    "name": "Vivier produits de la p\u00eache"
+                }
+            ],
+            "name": "app_libelle_activite_etablissement"
+        },
+        {
+            "facets": [
+                {
+                    "count": 6,
+                    "path": "Restaurant",
+                    "state": "displayed",
+                    "name": "Restaurant"
+                },
+                {
+                    "count": 2,
+                    "path": "Restauration collective",
+                    "state": "displayed",
+                    "name": "Restauration collective"
+                },
+                {
+                    "count": 1,
+                    "path": "Boucherie-Charcuterie",
+                    "state": "displayed",
+                    "name": "Boucherie-Charcuterie"
+                }
+            ],
+            "name": "filtre"
+        },
+        {
+            "facets": [
+                {
+                    "count": 6,
+                    "path": "2019",
+                    "state": "displayed",
+                    "name": "2019"
+                },
+                {
+                    "count": 10,
+                    "path": "2020",
+                    "state": "displayed",
+                    "name": "2020"
+                }
+            ],
+            "name": "date_inspection"
+        },
+        {
+            "facets": [
+                {
+                    "count": 16,
+                    "path": "Rouen",
+                    "state": "refined",
+                    "name": "Rouen"
+                }
+            ],
+            "name": "libelle_commune"
+        },
+        {
+            "facets": [
+                {
+                    "count": 9,
+                    "path": "Autres",
+                    "state": "displayed",
+                    "name": "Autres"
+                },
+                {
+                    "count": 3,
+                    "path": "Produits de la mer et d'eau douce",
+                    "state": "displayed",
+                    "name": "Produits de la mer et d'eau douce"
+                },
+                {
+                    "count": 2,
+                    "path": "Viandes et produits carn\u00e9s",
+                    "state": "displayed",
+                    "name": "Viandes et produits carn\u00e9s"
+                },
+                {
+                    "count": 1,
+                    "path": "Abattoirs",
+                    "state": "displayed",
+                    "name": "Abattoirs"
+                },
+                {
+                    "count": 1,
+                    "path": "Transport et entreposage de denr\u00e9es alimentaires",
+                    "state": "displayed",
+                    "name": "Transport et entreposage de denr\u00e9es alimentaires"
+                }
+            ],
+            "name": "ods_type_activite"
+        },
+        {
+            "facets": [
+                {
+                    "count": 10,
+                    "path": "Satisfaisant",
+                    "state": "displayed",
+                    "name": "Satisfaisant"
+                },
+                {
+                    "count": 6,
+                    "path": "Tr\u00e8s satisfaisant",
+                    "state": "displayed",
+                    "name": "Tr\u00e8s satisfaisant"
+                }
+            ],
+            "name": "synthese_eval_sanit"
+        }
+    ]
+}
