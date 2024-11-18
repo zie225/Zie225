@@ -14,18 +14,39 @@
 #
 
                                                                                         
-<a href="https://www.instagram.com/mczie225/">
-  <img align="left" alt="Turkalp's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.instagram.com/mczie225/" target="_blank">
+  <img align="left" alt="Hamed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/hamed225#1999">
-  <img align="left" alt="Zie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://discord.gg/hamed225#1999" target="_blank">
+  <img align="left" alt="Hamed's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/coulibal_zie">
-  <img align="left" alt="Zie | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/coulibal_zie" target="_blank">
+  <img align="left" alt="Hamed's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/">
-  <img align="left" alt="Zie LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
+  <img align="left" alt="Hamed's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+<!-- Tech Stack --> 
+
+<h3 align="Center">Tech Stack:</h3>  
+<p align="center">
+<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
+<a href="https://www.canva.com/tools/logo-maker-q1/?clickId=w671MsReixyIUGuwFGT2H2vQUkDz3iWZAWLTVc0&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC_10813&irgwc=1" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/></a>&nbsp;
+<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
+<a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
+<a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" title="Snowflake" alt="Snowflake" width="70" height="70"/></a>&nbsp;
+<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-postgresql-business-and-finance-justicon-flat-justicon.png" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/></a>&nbsp;
+</p>
+
+
 
 #
 <!--   my-skils -->
