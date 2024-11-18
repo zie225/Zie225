@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=333FF7&background=6C4E5E00&center=true&vCenter=true&multiline=true&width=538&height=60&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-- 🔭 I’m Data Scientist/Data Engineer enthusiasm
-- 🌱 I’m currently learning  Devops 
+- 🔭 I’m Data Scientist/Data Engineer 
+- 🌱  DevOps engineer
 
 - 👯 ~~I’m looking to collaborate on "Data Science/Data Engineer/IoT/ML Engineer"~~(no need to collaborate)
 - 💬 Ask me about  Artificial Intelligence/IoT
@@ -14,18 +14,20 @@
 #
 
                                                                                         
-<a href="https://www.instagram.com/mczie225/" target="_blank">
-  <img align="left" alt="Hamed's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/hamed225#1999" target="_blank">
-  <img align="left" alt="Hamed's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/coulibal_zie" target="_blank">
-  <img align="left" alt="Hamed's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
-  <img align="left" alt="Hamed's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<!-- Socials -->
+
+
+<h3 align="center">Connect with me:</h3>  
+<div align="center">
+  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Hamed's LinkedIn" style="height: 3rem; margin: 0 10px;" />
+  </a>
+  <a href="https://www.instagram.com/mczie225/" target="_blank">
+    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Hamed's Instagram" style="height: 3rem; margin: 0 10px;" />
+  </a>
+</div>
+
 
 
 <!-- Tech Stack --> 
