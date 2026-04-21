@@ -6,7 +6,6 @@
 - 🔭 I’m Data Scientist/Data Engineer 
 - 🌱  DevOps engineer
 
-- 👯 ~~I’m looking to collaborate on "Data Science/Data Engineer/IoT/ML Engineer"~~(no need to collaborate)
 - 💬 Ask me about  Artificial Intelligence/IoT
  📫 How to reach me: 
 #
