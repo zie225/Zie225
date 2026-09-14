@@ -314,24 +314,54 @@ IoT
 ├── Edge Computing
 ├── Real-Time Data
 └── AI at the Edge
+```
 
+---
 
-📊 GitHub Stats
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Mamadou GitHub Stats" />
+# 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Mamadou Top Languages" />
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+    alt="Mamadou GitHub Stats"
+  />
 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Mamadou Top Languages"
+  />
 </p>
 
+---
 
-🔥 GitHub Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zie225&theme=github-dark-blue&hide_border=true" alt="Mamadou GitHub Streak" /> </p>
+# 🔥 GitHub Streak
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zie225&theme=github-dark-blue&hide_border=true"
+    alt="Mamadou GitHub Streak"
+  />
+</p>
 
+---
 
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> </p>
+# 👀 Profile Views
 
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
+---
 
-<p align="center"> <b>💡 Data • Artificial Intelligence • Data Engineering • DevOps • MLOps • IoT</b> </p> <p align="center"> <i>Building intelligent, data-driven and scalable systems.</i> </p> ```
+<p align="center">
+  <b>💡 Data • Artificial Intelligence • Data Engineering • DevOps • MLOps • IoT</b>
+</p>
+
+<p align="center">
+  <i>Building intelligent, data-driven and scalable systems.</i>
+</p>
