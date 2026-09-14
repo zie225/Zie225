@@ -31,24 +31,15 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.instagram.com/mczie225/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <a href="https://github.com/zie225" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
 </p>
@@ -86,15 +77,7 @@
 
 ### Areas
 
-`Machine Learning` •
-`Deep Learning` •
-`Time Series` •
-`Regression` •
-`Classification` •
-`Predictive Modeling` •
-`Feature Engineering` •
-`Explainable AI` •
-`SHAP`
+`Machine Learning` • `Deep Learning` • `Time Series` • `Regression` • `Classification` • `Predictive Modeling` • `Feature Engineering` • `Explainable AI` • `SHAP`
 
 ---
 
@@ -111,14 +94,7 @@
 
 ### Data Engineering Skills
 
-`ETL / ELT` •
-`Data Pipelines` •
-`Data Cleaning` •
-`Data Transformation` •
-`Data Integration` •
-`Batch Processing` •
-`Streaming` •
-`Workflow Orchestration`
+`ETL / ELT` • `Data Pipelines` • `Data Cleaning` • `Data Transformation` • `Data Integration` • `Batch Processing` • `Streaming` • `Workflow Orchestration`
 
 ---
 
@@ -143,23 +119,7 @@
 
 ### DevOps Skills
 
-`Docker` •
-`Docker Compose` •
-`Docker Swarm` •
-`Kubernetes` •
-`Portainer` •
-`Git` •
-`GitHub` •
-`GitLab` •
-`GitHub Actions` •
-`GitLab CI/CD` •
-`GitLab Runner` •
-`CI/CD` •
-`Linux` •
-`Containerization` •
-`Orchestration` •
-`Deployment` •
-`MLOps`
+`Docker` • `Docker Compose` • `Docker Swarm` • `Kubernetes` • `Portainer` • `Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `GitLab Runner` • `CI/CD` • `Linux` • `Containerization` • `Orchestration` • `Deployment` • `MLOps`
 
 ---
 
@@ -200,13 +160,7 @@
 
 ### IoT Topics
 
-`Sensors` •
-`MQTT` •
-`Edge Computing` •
-`Real-Time Data` •
-`Data Acquisition` •
-`Monitoring` •
-`AI at the Edge`
+`Sensors` • `MQTT` • `Edge Computing` • `Real-Time Data` • `Data Acquisition` • `Monitoring` • `AI at the Edge`
 
 ---
 
@@ -261,16 +215,7 @@
 
 ### CI/CD Skills
 
-`Git` •
-`GitHub` •
-`GitLab` •
-`GitHub Actions` •
-`GitLab CI/CD` •
-`GitLab Runner` •
-`Continuous Integration` •
-`Continuous Delivery` •
-`Automated Testing` •
-`Automated Deployment`
+`Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `GitLab Runner` • `Continuous Integration` • `Continuous Delivery` • `Automated Testing` • `Automated Deployment`
 
 ---
 
@@ -320,29 +265,28 @@ IoT
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    alt="Mamadou GitHub Stats"
-  />
+<!--
+These cards are generated once a day by GitHub Actions and committed
+inside this repository. This avoids broken cards caused by public API
+rate limits every time somebody opens the profile.
+-->
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="Mamadou Top Languages"
-  />
+<p align="center">
+  <img width="49%" src="./profile/stats.svg" alt="Mamadou GitHub Stats"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Mamadou Top Languages"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
+<!--
+This streak card is generated from GitHub's GraphQL API by
+scripts/generate_streak.py and stored locally in the repository.
+-->
+
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zie225&theme=github-dark-blue&hide_border=true"
-    alt="Mamadou GitHub Streak"
-  />
+  <img src="./profile/streak.svg" alt="Mamadou GitHub Streak"/>
 </p>
 
 ---
