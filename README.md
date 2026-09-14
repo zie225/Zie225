@@ -1,123 +1,262 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="190"/>
 
+# 👋 Hi, I'm Mamadou
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=333FF7&background=6C4E5E00&center=true&vCenter=true&multiline=true&width=538&height=60&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=333FF7\&center=false\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub+profile;Data+Scientist+%7C+Data+Engineer;Artificial+Intelligence+%7C+Machine+Learning;DevOps+%7C+MLOps+%7C+IoT)](https://git.io/typing-svg)
 
-- 🔭 I’m Data Scientist/Data Engineer 
-- 🌱  DevOps engineer
+## 🚀 About Me
 
-- 💬 Ask me about  Artificial Intelligence/IoT
- 📫 How to reach me: 
-#
- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-#
+* 🔭 I'm a **Data Scientist / Data Engineer**
+* 🤖 I work on **Artificial Intelligence, Machine Learning & Deep Learning**
+* ⚙️ Interested in **DevOps, MLOps and distributed systems**
+* 🌊 Working with **data pipelines, time series, environmental data and predictive modeling**
+* 📡 Interested in **IoT, sensors, edge computing and real-time data**
+* 🐧 Linux user
+* ☁️ Working with containerized and distributed architectures
+* 💬 Ask me about **Python, AI, Data Engineering, DevOps, IoT and Machine Learning**
+* 📚 Always learning and experimenting with new technologies
 
-                                                                                        
+<br clear="right"/>
 
-<!-- Socials -->
+---
 
+## 🌐 Connect with me
 
-<h3 align="center">Connect with me:</h3>  
-<div align="center">
-  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Hamed's LinkedIn" style="height: 3rem; margin: 0 10px;" />
-  </a>
-  <a href="https://www.instagram.com/mczie225/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Hamed's Instagram" style="height: 3rem; margin: 0 10px;" />
-  </a>
-</div>
-
-
-
-<!-- Tech Stack --> 
-
-<h3 align="Center">Tech Stack:</h3>  
 <p align="center">
-<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
-<a href="https://www.canva.com/tools/logo-maker-q1/?clickId=w671MsReixyIUGuwFGT2H2vQUkDz3iWZAWLTVc0&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC_10813&irgwc=1" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/></a>&nbsp;
-<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
-<a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
-<a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" title="Snowflake" alt="Snowflake" width="70" height="70"/></a>&nbsp;
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-postgresql-business-and-finance-justicon-flat-justicon.png" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/mczie225/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://github.com/zie225" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-### Languages and Tools :
+---
 
-#### FRONTEND
+# 🛠️ Tech Stack
 
-<span>
-  <a href='https://react.dev/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png' width='50'></a>
-  <a href='https://angular.dev/'><img src='https://devtobecurious.fr/imgs/training-courses/angular-advanced.png' width='50'></a>
-  <a href='https://html.spec.whatwg.org/multipage/'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='50'></a>
-  <a href='https://www.w3.org/Style/CSS/'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='50'></a>
-  <a href='https://developer.mozilla.org/fr/docs/Web/JavaScript'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='50'></a>
-  <a href='https://www.typescriptlang.org/'><img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg' width='50'></a>
-</span>
+## 👨‍💻 Programming Languages
 
-#### BACKEND
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<span>
-  <a href='https://www.c-language.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png' width='50'></a>
-  <a href='https://isocpp.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' width='50'></a>
-  <a href='https://www.java.com/'><img src='https://img.icons8.com/color/512/java-coffee-cup-logo.png' width='50'></a>
-  <a href='https://symfony.com/'><img src='https://avatars.githubusercontent.com/u/143937?s=280&v=4' width='50'></a>
-</span>
+---
 
-#### DBMS
+## 🤖 Artificial Intelligence & Machine Learning
 
-<span>
-  <a href='https://www.oracle.com/database/'><img src='https://m.media-amazon.com/images/I/41QodfboFdL.png' width='50'></a>
-  <a href='https://www.mongodb.com/'><img src='https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png' width='50'></a>
-  <a href='https://www.postgresql.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg' width='50'></a>
-</span>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
+</p>
 
-#### OPERATING SYSTEM
+### Areas
 
-<span>
-  <a href='https://ubuntu.com/'><img src='https://cdn.iconscout.com/icon/free/png-256/free-ubuntu-17-1175077.png?f=webp' width='50'></a>
-  <a href='https://www.debian.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png' width='50'></a>
-  <a href='https://fedoraproject.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/2089px-Fedora_icon_%282021%29.svg.png' width='50'></a>
-</span>
+`Machine Learning` • `Deep Learning` • `Time Series` • `Regression` • `Classification` • `Predictive Modeling` • `Feature Engineering` • `Explainable AI` • `SHAP`
 
-#### ARTIFICIAL INTELLIGENCE
+---
 
-<span>
-  <a href='https://www.python.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' width='50'></a>
-  <a href='https://www.tensorflow.org/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/449px-Tensorflow_logo.svg.png' width='50'></a>
-  <a href='https://pytorch.org/'><img src='https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png' width='50'></a>
-  <a href='https://pandas.pydata.org/'><img src='https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png' width='50'></a>
-</span>
+## 🏗️ Data Engineering & Big Data
 
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge"/>
+</p>
 
+### Data Engineering Skills
 
-#
-<!--   my-skils -->
+`ETL / ELT` • `Data Pipelines` • `Data Cleaning` • `Data Transformation` • `Data Integration` • `Batch Processing` • `Streaming` • `Workflow Orchestration`
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language and IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![VSC](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![HTML Badge](https://img.shields.io/badge/-HTML-blue?style=for-the-badge) ![CSS Badge](https://img.shields.io/badge/-CSS-orange?style=for-the-badge)|
-| **Domain Knownledge**                           | ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=for-the-badge&logoColor=white) ![Deep Learning Badge](https://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Library Contribution**                                      | [![Markdown Badge](https://img.shields.io/badge/ARM-Mango-brightgreen)](https://github.com/ARM-software/mango) [![Github Badge](https://img.shields.io/badge/Pingouin--9cf)](https://github.com/raphaelvallat/pingouin) [![Github Actions Badge](https://img.shields.io/badge/Pycaret--9cf)](https://github.com/pycaret/pycaret) [![Github Actions Badge](https://img.shields.io/badge/AutoViML-Auto_TS-9cf)](https://github.com/AutoViML/Auto_TS)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **CI / CD**                                    | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/turkalpmd) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/turkalpmd) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/turkalpmd)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **OS**                                          | ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![microsoft](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-| **Machine Learning / Deep Learning frameworks** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![apache kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+# ⚙️ DevOps / MLOps
 
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
+</p>
 
+### DevOps Skills
 
+`Docker` • `Docker Compose` • `Docker Swarm` • `Kubernetes` • `Git` • `GitHub` • `CI/CD` • `Linux` • `Containerization` • `Orchestration` • `Deployment` • `MLOps`
 
-📈 my github stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=gotham" alt="zie225" />
+# 🐧 Linux & Operating Systems
 
-<p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact"/>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
+---
 
+# 🗄️ Databases
 
-![](https://komarev.com/ghpvc/?username=zie225)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+# 📡 IoT & Edge Computing
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge%20Computing-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time%20Data-FF6F00?style=for-the-badge"/>
+</p>
+
+### IoT Topics
+
+`Sensors` • `MQTT` • `Edge Computing` • `Real-Time Data` • `Data Acquisition` • `Monitoring` • `AI at the Edge`
+
+---
+
+# 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+---
+
+# 🔧 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+</p>
+
+---
+
+# 🧰 Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+---
+
+# 🔄 CI / CD & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+# 🧠 Areas of Interest
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Predictive Modeling
+├── Time Series
+└── Explainable AI
+
+Data Engineering
+├── ETL / ELT
+├── Apache Airflow
+├── Apache Spark
+├── Apache Kafka
+├── Data Pipelines
+└── Data Quality
+
+DevOps / MLOps
+├── Linux
+├── Git
+├── Docker
+├── Docker Compose
+├── Docker Swarm
+├── Kubernetes
+├── CI/CD
+└── Model Deployment
+
+IoT
+├── Sensors
+├── MQTT
+├── Edge Computing
+├── Real-Time Data
+└── AI at the Edge
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Data • Artificial Intelligence • DevOps • IoT</b>
+</p>
+
+<p align="center">
+  <i>Building intelligent, data-driven and scalable systems.</i>
+</p>
