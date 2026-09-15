@@ -31,11 +31,26 @@ def safe_get(obj, key, default=0):
     return obj.get(key, default) if isinstance(obj, dict) else default
 
 
-user = fetch_json(f"{BASE_URL}/users/{USER}")
+def safe_joined_date(value):
+    if not value or not isinstance(value, str):
+        return "unknown"
+    date = value[:10]
+    return date if date.count("-") == 2 and date[:4].isdigit() else "unknown"
+
+
+try:
+    user = fetch_json(f"{BASE_URL}/users/{USER}")
+except Exception as exc:
+    raise SystemExit(f"Unable to fetch real GitHub data for {USER}: {exc}. Statistics are unavailable until API access is restored.") from exc
+
+
 repos = []
 page = 1
 while True:
-    page_data = fetch_json(f"{BASE_URL}/users/{USER}/repos?per_page=100&page={page}")
+    try:
+        page_data = fetch_json(f"{BASE_URL}/users/{USER}/repos?per_page=100&page={page}")
+    except Exception as exc:
+        raise SystemExit(f"Unable to fetch repository list for {USER}: {exc}. Statistics are unavailable until API access is restored.") from exc
     if not page_data:
         break
     repos.extend(page_data)
@@ -78,7 +93,7 @@ def draw_stats_card():
     repo_count = safe_get(user, "public_repos", 0)
     followers = safe_get(user, "followers", 0)
     following = safe_get(user, "following", 0)
-    created = user.get("created_at", "")[:10]
+    created = safe_joined_date(user.get("created_at", ""))
 
     stats = [
         ("Repos", str(repo_count)),
@@ -93,7 +108,7 @@ def draw_stats_card():
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="GitHub Stats">',
         '<rect width="100%" height="100%" fill="#0d1117" rx="16"/>',
         '<text x="40" y="42" fill="#e6edf3" font-size="28" font-family="Arial, sans-serif" font-weight="700">GitHub Stats</text>',
-        '<text x="40" y="78" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">@zie225 • joined 2026-??</text>',
+        f'<text x="40" y="78" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">@{USER} • joined {created}</text>',
     ]
 
     start_x = 40
