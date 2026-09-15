@@ -263,13 +263,13 @@ IoT
 # 📊 GitHub Stats
 
 <!--
-These cards are served dynamically and render immediately on GitHub,
-without depending on a missing generated SVG file.
+These cards are committed to the repository and loaded directly from GitHub,
+so they remain stable and do not depend on third-party APIs.
 -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zie225&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Mamadou GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zie225&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Mamadou Top Languages"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg" alt="Mamadou GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg" alt="Mamadou Top Languages"/>
 </p>
 
 ---
@@ -277,7 +277,7 @@ without depending on a missing generated SVG file.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=zie225&theme=dark&hide_border=true" alt="Mamadou GitHub Streak"/>
+  <img width="70%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg" alt="Mamadou GitHub Streak"/>
 </p>
 
 ---
