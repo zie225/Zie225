@@ -269,8 +269,8 @@ Languages count primary languages of non-fork repositories; streaks cover the di
 -->
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=36445e0c388fc4b9" alt="Mamadou GitHub Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=cd60dd8d40f13a48" alt="Mamadou Top Languages"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=7d5c41e5c33c9be7" alt="Mamadou GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=018a468b6a505fdd" alt="Mamadou Top Languages"/>
 </p>
 
 ---
@@ -278,7 +278,7 @@ Languages count primary languages of non-fork repositories; streaks cover the di
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=66b2da79f6e40508" alt="Mamadou GitHub Streak"/>
+  <img width="70%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=0f34849612b25588" alt="Mamadou GitHub Streak"/>
 </p>
 
 ---
