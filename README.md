@@ -9,18 +9,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=333FF7&center=false&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Data+Scientist+%7C+Data+Engineer;Artificial+Intelligence+%7C+Machine+Learning;DevOps+%7C+MLOps+%7C+IoT)](https://git.io/typing-svg)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-4CAF50?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering-1F6FEB?style=for-the-badge" alt="Focus"/>
+</p>
+
 ## 🚀 About Me
 
-- 🔭 I'm a **Data Scientist / Data Engineer**
-- 🤖 I work on **Artificial Intelligence, Machine Learning & Deep Learning**
-- ⚙️ Interested in **DevOps, MLOps and distributed systems**
-- 🌊 Working with **data pipelines, time series, environmental data and predictive modeling**
-- 📡 Interested in **IoT, sensors, edge computing and real-time data**
-- 🐧 Linux user
-- ☁️ Working with **containerized and distributed architectures**
-- 🔄 Interested in **CI/CD, GitHub Actions and GitLab CI/CD**
-- 💬 Ask me about **Python, AI, Data Engineering, DevOps, IoT and Machine Learning**
-- 📚 Always learning and experimenting with new technologies
+- 🔭 I am a **Data Scientist / Data Engineer** building systems that turn data into decisions.
+- 🤖 I work on **Artificial Intelligence, Machine Learning, and Deep Learning**.
+- ⚙️ I enjoy **DevOps, MLOps, distributed systems, and automation**.
+- 🌊 My work focuses on **data pipelines, predictive modeling, time series, and environmental intelligence**.
+- 📡 I am passionate about **IoT, sensors, edge computing, and real-time data**.
+- 🐧 I work heavily with **Linux-based environments and containerized architectures**.
+- 🔄 I care about **CI/CD, GitHub Actions, GitLab CI/CD, and reliable deployment workflows**.
+- 💬 Ask me about **Python, AI, Data Engineering, DevOps, IoT, and machine learning**.
+- 📚 I am always learning and experimenting with new technologies to build smarter systems.
 
 <br clear="right"/>
 
@@ -42,6 +46,23 @@
 
 ---
 
+# 🧠 What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Models%20%26%20Pipelines-FF6B6B?style=for-the-badge" alt="AI & ML"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-ETL%20%2F%20ELT%20%2F%20Automation-4ECDC4?style=for-the-badge" alt="Data engineering"/>
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Docker%20%2F%20Kubernetes%20%2F%20CI%20CD-45B7D1?style=for-the-badge" alt="Cloud and DevOps"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20Edge-Sensors%20%2F%20Real-Time-9B59B6?style=for-the-badge" alt="IoT and edge"/>
+</p>
+
+- 🧬 Designing smart **data-driven solutions** for real-world problems.
+- ⚗️ Building **AI and ML models** with strong data engineering foundations.
+- 🚀 Automating deployments and pipelines with **Docker, Kubernetes, GitHub Actions, and CI/CD**.
+- 📈 Creating **predictive systems** for time series and operational decision support.
+- 🌍 Combining **data, infrastructure, and intelligent automation** to scale modern products.
+
+---
+
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -56,9 +77,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
----
-
-## 🤖 Artificial Intelligence & Machine Learning
+## 🤖 AI / ML / Data
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -75,8 +94,6 @@
 
 `Machine Learning` • `Deep Learning` • `Time Series` • `Regression` • `Classification` • `Predictive Modeling` • `Feature Engineering` • `Explainable AI` • `SHAP`
 
----
-
 ## 🏗️ Data Engineering & Big Data
 
 <p>
@@ -92,9 +109,7 @@
 
 `ETL / ELT` • `Data Pipelines` • `Data Cleaning` • `Data Transformation` • `Data Integration` • `Batch Processing` • `Streaming` • `Workflow Orchestration`
 
----
-
-# ⚙️ DevOps / MLOps
+## ⚙️ DevOps / MLOps
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -117,9 +132,7 @@
 
 `Docker` • `Docker Compose` • `Docker Swarm` • `Kubernetes` • `Portainer` • `Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `GitLab Runner` • `CI/CD` • `Linux` • `Containerization` • `Orchestration` • `Deployment` • `MLOps`
 
----
-
-# 🐧 Linux & Operating Systems
+## 🐧 Linux & Operating Systems
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -129,9 +142,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
----
-
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -141,9 +152,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
 </p>
 
----
-
-# 📡 IoT & Edge Computing
+## 📡 IoT & Edge Computing
 
 <p>
   <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logoColor=white" alt="IoT"/>
@@ -158,9 +167,7 @@
 
 `Sensors` • `MQTT` • `Edge Computing` • `Real-Time Data` • `Data Acquisition` • `Monitoring` • `AI at the Edge`
 
----
-
-# 🌐 Frontend
+## 🌐 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -171,9 +178,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
----
-
-# 🔧 Backend
+## 🔧 Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -183,9 +188,7 @@
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
 </p>
 
----
-
-# 🧰 Development Tools
+## 🧰 Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -195,9 +198,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </p>
 
----
-
-# 🔄 CI/CD & Version Control
+## 🔄 CI/CD & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
