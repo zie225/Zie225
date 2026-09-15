@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-label="GitHub at a glance">
 <rect x="1" y="1" width="818" height="308" rx="18" fill="#0b1220" stroke="#26344b"/>
-<rect x="32" y="29" width="4" height="24" rx="2" fill="#63e6be"/>
+<rect x="32" y="29" width="4" height="24" rx="2" fill="#38bdf8"/>
 <text x="48" y="48" fill="#e6edf3" font-size="26" font-family="Arial, sans-serif">GitHub at a glance</text>
 <text x="32" y="78" fill="#a2b1c6" font-size="15" font-family="Arial, sans-serif">@zie225 | Public repositories and contributions</text>
 <text x="32" y="114" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Public repos</text>
@@ -14,6 +14,6 @@
 <text x="292" y="202" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Stars / non-fork repos</text>
 <text x="292" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">32</text>
 <text x="552" y="202" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Contributions (12 mo)</text>
-<text x="552" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">65</text>
-<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 21:14 UTC</text>
+<text x="552" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">66</text>
+<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 21:24 UTC</text>
 </svg>

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Generate profile SVGs; fetch and validate all data before replacing any card."""
 import hashlib
 import json
@@ -88,7 +88,7 @@ def card(title, subtitle, body, height=310):
     return "\n".join([
         f'<svg xmlns="http://www.w3.org/2000/svg" width="820" height="{height}" viewBox="0 0 820 {height}" role="img" aria-label="{escape(title)}">',
         '<rect x="1" y="1" width="818" height="' + str(height - 2) + '" rx="18" fill="#0b1220" stroke="#26344b"/>',
-        '<rect x="32" y="29" width="4" height="24" rx="2" fill="#63e6be"/>',
+        '<rect x="32" y="29" width="4" height="24" rx="2" fill="#38bdf8"/>',
         text(48, 48, title, 26), text(32, 78, subtitle, 15, "#a2b1c6"),
         *body, text(32, height - 18, "Updated " + updated, 12, "#8b949e"), '</svg>',
     ])
@@ -137,10 +137,10 @@ def activity_heatmap(days):
     cells = [text(32, 222, "LAST 12 WEEKS", 13, "#a2b1c6")]
     # Chronological rows, one week per column, using real contribution counts.
     for i, (day, count) in enumerate(recent):
-        color = "#18263a" if not count else ("#255e57" if count < 3 else "#3d9e86" if count < 6 else "#63e6be")
+        color = "#18263a" if not count else ("#1e3a8a" if count < 3 else "#2563eb" if count < 6 else "#38bdf8")
         cells.append(f'<rect x="{32 + (i // 7) * 27}" y="{237 + (i % 7) * 11}" width="22" height="8" rx="2" fill="{color}"><title>{day}: {count} contributions</title></rect>')
     last30 = days[-30:]
-    cells.extend([text(408, 253, f"{sum(n for _, n in last30)} contributions", 24, "#63e6be"),
+    cells.extend([text(408, 253, f"{sum(n for _, n in last30)} contributions", 24, "#38bdf8"),
                   text(408, 283, f"{sum(n > 0 for _, n in last30)} active days in the last 30 days", 17, "#a2b1c6"),
                   text(32, 339, f"{recent[0][0]} to {recent[-1][0]} | Brighter = more contributions", 13, "#a2b1c6")])
     return cells
@@ -176,7 +176,7 @@ def generate():
     languages = Counter(r["language"] for r in repos if not r["fork"] and r["language"])
     total = sum(languages.values())
     body = []
-    colors = ["#63e6be", "#7dd3fc", "#a5b4fc", "#f9a8d4", "#fcd34d", "#94a3b8"]
+    colors = ["#38bdf8", "#7dd3fc", "#a5b4fc", "#f9a8d4", "#fcd34d", "#94a3b8"]
     for i, (language, count) in enumerate(languages.most_common(6)):
         y = 108 + i * 28
         pct = count / total * 100
