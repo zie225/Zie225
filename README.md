@@ -1,303 +1,138 @@
-<img
-  align="right"
-  src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
-  width="190"
-  alt="Developer animation"
-/>
-
-# 👋 Hi, I'm Mamadou
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=333FF7&center=false&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;Data+Scientist+%7C+Data+Engineer;Artificial+Intelligence+%7C+Machine+Learning;DevOps+%7C+MLOps+%7C+IoT)](https://git.io/typing-svg)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-4CAF50?style=for-the-badge" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20AI%20%7C%20Data%20Engineering-1F6FEB?style=for-the-badge" alt="Focus"/>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=4da63439a9fedf8e" alt="Mamadou Coulibaly — Data Scientist and Data Engineer. From raw data to useful intelligence."/>
 </p>
-
-## 🚀 About Me
-
-- 🔭 I am a **Data Scientist / Data Engineer** building systems that turn data into decisions.
-- 🤖 I work on **Artificial Intelligence, Machine Learning, and Deep Learning**.
-- ⚙️ I enjoy **DevOps, MLOps, distributed systems, and automation**.
-- 🌊 My work focuses on **data pipelines, predictive modeling, time series, and environmental intelligence**.
-- 📡 I am passionate about **IoT, sensors, edge computing, and real-time data**.
-- 🐧 I work heavily with **Linux-based environments and containerized architectures**.
-- 🔄 I care about **CI/CD, GitHub Actions, GitLab CI/CD, and reliable deployment workflows**.
-- 💬 Ask me about **Python, AI, Data Engineering, DevOps, IoT, and machine learning**.
-- 📚 I am always learning and experimenting with new technologies to build smarter systems.
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mczie225/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/zie225" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/"><img src="https://img.shields.io/badge/Let%27s_connect-LinkedIn-63E6BE?style=flat-square&amp;labelColor=101827" alt="Connect on LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Open_to_work-Data_%26_AI-A5B4FC?style=flat-square&amp;labelColor=101827" alt="Open to work in Data and AI"/>
+  <a href="https://github.com/zie225?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_repositories-7DD3FC?style=flat-square&amp;labelColor=101827" alt="Explore my repositories"/></a>
 </p>
-
----
-
-# 🧠 What I Build
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Models%20%26%20Pipelines-FF6B6B?style=for-the-badge" alt="AI & ML"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-ETL%20%2F%20ELT%20%2F%20Automation-4ECDC4?style=for-the-badge" alt="Data engineering"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Docker%20%2F%20Kubernetes%20%2F%20CI%20CD-45B7D1?style=for-the-badge" alt="Cloud and DevOps"/>
-  <img src="https://img.shields.io/badge/IoT%20%26%20Edge-Sensors%20%2F%20Real-Time-9B59B6?style=for-the-badge" alt="IoT and edge"/>
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#github-pulse">GitHub pulse</a>
 </p>
 
-- 🧬 Designing smart **data-driven solutions** for real-world problems.
-- ⚗️ Building **AI and ML models** with strong data engineering foundations.
-- 🚀 Automating deployments and pipelines with **Docker, Kubernetes, GitHub Actions, and CI/CD**.
-- 📈 Creating **predictive systems** for time series and operational decision support.
-- 🌍 Combining **data, infrastructure, and intelligent automation** to scale modern products.
+## About
 
----
+I'm **Mamadou**, a **Data Scientist / Data Engineer** interested in the whole journey from sensor readings and raw datasets to models and useful applications.
 
-# 🛠️ Tech Stack
+My work connects **machine learning, data pipelines and infrastructure**, with a particular interest in environmental data, time series and IoT.
 
-## 👨‍💻 Programming Languages
+| I build | My focus |
+| :--- | :--- |
+| **Intelligent models** | Predictive modeling, evaluation and explainability |
+| **Reliable data flows** | ETL, orchestration, data quality and streaming |
+| **Deployable systems** | Containers, CI/CD, experiment tracking and MLOps |
+| **Connected applications** | Sensors, Raspberry Pi and environmental intelligence |
+
+## Selected work
+
+### 01 · Machine learning pipelines
+
+[**ML Pipeline with Airflow →**](https://github.com/zie225/ml-pipeline-airflow)
+
+Data validation and model evaluation in a containerized machine learning workflow.
+
+`Python` `Apache Airflow` `Docker` `Model validation`
+
+### 02 · From raw data to structured datasets
+
+[**ETL & orchestration →**](https://github.com/zie225/etl_airflow)
+
+A Python ETL project for pollution and geographic data, with Airflow and PostgreSQL.
+
+`Data Engineering` `Python` `PostgreSQL` `Airflow`
+
+### 03 · An environment for ML experiments
+
+[**MLflow with Docker Compose →**](https://github.com/zie225/mlflow_prefect_docker)
+
+An MLflow server with PostgreSQL and MinIO, assembled with Docker Compose.
+
+`MLOps` `MLflow` `MinIO` `Docker Compose`
+
+### 04 · Data meets the physical world
+
+[**Agritech & soil moisture sensing →**](https://github.com/zie225/Ab5_Consulting_Agritech)
+
+Exploring low-cost soil moisture sensors, calibration and Raspberry Pi for agricultural applications.
+
+`IoT` `Sensors` `Raspberry Pi` `Data analysis`
+
+## Toolbox
+
+**My core toolkit**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Python-101827?style=flat-square&amp;logo=python&amp;logoColor=7DD3FC" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-101827?style=flat-square&amp;logo=postgresql&amp;logoColor=7DD3FC" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-101827?style=flat-square&amp;logo=scikitlearn&amp;logoColor=63E6BE" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-101827?style=flat-square&amp;logo=pytorch&amp;logoColor=63E6BE" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Airflow-101827?style=flat-square&amp;logo=apacheairflow&amp;logoColor=63E6BE" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/Docker-101827?style=flat-square&amp;logo=docker&amp;logoColor=A5B4FC" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-101827?style=flat-square&amp;logo=linux&amp;logoColor=A5B4FC" alt="Linux"/>
 </p>
 
-## 🤖 AI / ML / Data
+<details>
+<summary><b>Explore the full stack</b></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost"/>
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, SQL, JavaScript, TypeScript, C, C++, Java |
+| AI & analytics | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, CatBoost, SHAP |
+| Data platforms | Airflow, Spark, Kafka, Snowflake, PostgreSQL, PostGIS, MongoDB, SQLite, Oracle |
+| Infrastructure | Docker, Compose, Swarm, Kubernetes, Portainer, Linux |
+| Delivery & MLOps | Git, GitHub Actions, GitLab CI/CD, MLflow |
+| IoT | MQTT, Arduino, Raspberry Pi, sensors, edge computing |
+| Web | React, Angular, HTML, CSS, Symfony |
+| Development | Jupyter, VS Code, Anaconda, Google Colab, Kaggle |
 
-### Areas
+</details>
 
-`Machine Learning` • `Deep Learning` • `Time Series` • `Regression` • `Classification` • `Predictive Modeling` • `Feature Engineering` • `Explainable AI` • `SHAP`
+## GitHub pulse
 
-## 🏗️ Data Engineering & Big Data
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-4B8BBE?style=for-the-badge" alt="ETL ELT"/>
-  <img src="https://img.shields.io/badge/Data%20Pipelines-FF6F00?style=for-the-badge" alt="Data Pipelines"/>
-</p>
-
-### Data Engineering Skills
-
-`ETL / ELT` • `Data Pipelines` • `Data Cleaning` • `Data Transformation` • `Data Integration` • `Batch Processing` • `Streaming` • `Workflow Orchestration`
-
-## ⚙️ DevOps / MLOps
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Runner"/>
-</p>
-
-### DevOps Skills
-
-`Docker` • `Docker Compose` • `Docker Swarm` • `Kubernetes` • `Portainer` • `Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `GitLab Runner` • `CI/CD` • `Linux` • `Containerization` • `Orchestration` • `Deployment` • `MLOps`
-
-## 🐧 Linux & Operating Systems
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</p>
-
-## 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-</p>
-
-## 📡 IoT & Edge Computing
-
-<p>
-  <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logoColor=white" alt="IoT"/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Edge%20Computing-555555?style=for-the-badge" alt="Edge Computing"/>
-  <img src="https://img.shields.io/badge/Real--Time%20Data-FF6F00?style=for-the-badge" alt="Real-Time Data"/>
-</p>
-
-### IoT Topics
-
-`Sensors` • `MQTT` • `Edge Computing` • `Real-Time Data` • `Data Acquisition` • `Monitoring` • `AI at the Edge`
-
-## 🌐 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-## 🔧 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
-</p>
-
-## 🧰 Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</p>
-
-## 🔄 CI/CD & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Runner"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logoColor=white" alt="CI/CD"/>
-</p>
-
-### CI/CD Skills
-
-`Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `GitLab Runner` • `Continuous Integration` • `Continuous Delivery` • `Automated Testing` • `Automated Deployment`
-
----
-
-# 🧠 Areas of Interest
-
-```text
-Artificial Intelligence
-├── Machine Learning
-├── Deep Learning
-├── Predictive Modeling
-├── Time Series
-└── Explainable AI
-
-Data Engineering
-├── ETL / ELT
-├── Apache Airflow
-├── Apache Spark
-├── Apache Kafka
-├── Data Pipelines
-└── Data Quality
-
-DevOps / MLOps
-├── Linux
-├── Git
-├── GitHub
-├── GitLab
-├── GitHub Actions
-├── GitLab CI/CD
-├── GitLab Runner
-├── Docker
-├── Docker Compose
-├── Docker Swarm
-├── Kubernetes
-├── Portainer
-├── CI/CD
-└── Model Deployment
-
-IoT
-├── Sensors
-├── MQTT
-├── Edge Computing
-├── Real-Time Data
-└── AI at the Edge
-```
-
----
-
-# 📊 GitHub Stats
-
-<!--
-These cards are committed to the repository and loaded directly from GitHub,
-The daily workflow refreshes public GitHub data and preserves the last valid cards on failure.
-Languages count primary languages of non-fork repositories; streaks cover the displayed 12-month calendar.
--->
+Public activity, refreshed daily. Each card includes its update time.
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=7d5c41e5c33c9be7" alt="Mamadou GitHub Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=018a468b6a505fdd" alt="Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=0119509519e78170" alt="Mamadou GitHub Stats"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=f8ca15221069dc8c" alt="Mamadou GitHub Streak and contribution activity"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
+<details>
+<summary><b>Language distribution across my repositories</b></summary>
 
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=0f34849612b25588" alt="Mamadou GitHub Streak"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=96307c7dead70ab1" alt="Mamadou Top Languages"/>
 </p>
 
----
+Languages are counted by the primary language of each public, non-fork repository, rather than lines of code.
 
-# 👀 Profile Views
+</details>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+### Recently updated repositories
+
+<!-- RECENT-REPOS:START -->
+
+| Repository | Main language | Last push |
+| :--- | :--- | :--- |
+| <a href="https://github.com/zie225/counting_people">counting&#95;people</a> | Not specified | 2025-05-02 |
+| <a href="https://github.com/zie225/-Voting-Bagging-random-forest">-Voting-Bagging-random-forest</a> | Jupyter Notebook | 2023-09-28 |
+| <a href="https://github.com/zie225/etl_airflow">etl&#95;airflow</a> | Jupyter Notebook | 2023-09-10 |
+| <a href="https://github.com/zie225/metaanalyse">metaanalyse</a> | TeX | 2023-08-31 |
+
+<!-- RECENT-REPOS:END -->
 
 ---
 
 <p align="center">
-  <b>💡 Data • Artificial Intelligence • Data Engineering • DevOps • MLOps • IoT</b>
-</p>
-
-<p align="center">
-  <i>Building intelligent, data-driven and scalable systems.</i>
+  <b>Have a data problem worth solving?</b><br/>
+  I'm open to opportunities and collaboration in Data Science, Data Engineering and AI.<br/><br/>
+  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/">Let's talk on LinkedIn →</a>
+  &nbsp; &middot; &nbsp;
+  <a href="https://www.instagram.com/mczie225/">Instagram</a>
 </p>

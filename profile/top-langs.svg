@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-label="Top Languages">
-<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
-<text x="32" y="44" fill="#e6edf3" font-size="28" font-family="Arial, sans-serif">Top Languages</text>
-<text x="32" y="74" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Primary language per public, non-fork repository | Share of all classified repos</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-label="Language landscape">
+<rect x="1" y="1" width="818" height="308" rx="18" fill="#0b1220" stroke="#26344b"/>
+<rect x="32" y="29" width="4" height="24" rx="2" fill="#63e6be"/>
+<text x="48" y="48" fill="#e6edf3" font-size="26" font-family="Arial, sans-serif">Language landscape</text>
+<text x="32" y="78" fill="#a2b1c6" font-size="15" font-family="Arial, sans-serif">Primary language of public, non-fork repositories</text>
 <text x="32" y="108" fill="#e6edf3" font-size="15" font-family="Arial, sans-serif">Jupyter Notebook</text>
-<rect x="220" y="96" width="324.5" height="12" rx="6" fill="#3572A5"/>
+<rect x="220" y="96" width="324.5" height="12" rx="6" fill="#63e6be"/>
 <text x="670" y="108" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">77.3% (17)</text>
 <text x="32" y="136" fill="#e6edf3" font-size="15" font-family="Arial, sans-serif">Python</text>
-<rect x="220" y="124" width="38.2" height="12" rx="6" fill="#f1e05a"/>
+<rect x="220" y="124" width="38.2" height="12" rx="6" fill="#7dd3fc"/>
 <text x="670" y="136" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">9.1% (2)</text>
 <text x="32" y="164" fill="#e6edf3" font-size="15" font-family="Arial, sans-serif">HTML</text>
-<rect x="220" y="152" width="38.2" height="12" rx="6" fill="#e34c26"/>
+<rect x="220" y="152" width="38.2" height="12" rx="6" fill="#a5b4fc"/>
 <text x="670" y="164" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">9.1% (2)</text>
 <text x="32" y="192" fill="#e6edf3" font-size="15" font-family="Arial, sans-serif">TeX</text>
-<rect x="220" y="180" width="19.1" height="12" rx="6" fill="#a371f7"/>
+<rect x="220" y="180" width="19.1" height="12" rx="6" fill="#f9a8d4"/>
 <text x="670" y="192" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">4.5% (1)</text>
-<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 10:07 UTC</text>
+<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 10:12 UTC</text>
 </svg>

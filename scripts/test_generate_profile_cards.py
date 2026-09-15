@@ -8,6 +8,42 @@ import generate_profile_cards as cards
 
 
 class ProfileCardsTests(unittest.TestCase):
+    def test_recent_repositories_filter_and_sort(self):
+        def repo(name, **extra):
+            return dict(name=name, fork=False, archived=False, size=1,
+                        pushed_at="2026-01-01T00:00:00Z", **extra)
+        older = repo("older")
+        newer = repo("newer")
+        newer["pushed_at"] = "2026-02-01T00:00:00Z"
+        fork = repo("fork")
+        fork["fork"] = True
+        archived = repo("archived")
+        archived["archived"] = True
+        empty = repo("empty")
+        empty["size"] = 0
+        self.assertEqual(cards.recent_repositories([older, fork, archived, empty, repo(cards.USER), newer]), [newer, older])
+
+    def test_readme_refresh_preserves_manual_content_and_versions_images(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            readme = root / "README.md"
+            readme.write_text('Intro\n<!-- RECENT-REPOS:START -->old<!-- RECENT-REPOS:END -->\nFooter\n'
+                              + '\n'.join(f'<img src="./profile/{name}.svg"/>' for name in ("banner", "stats", "top-langs", "streak")))
+            for name in ("banner", "stats", "top-langs", "streak"):
+                (root / f"{name}.svg").write_text("<svg/>")
+            cards.update_recent_repositories(readme, [])
+            cards.update_image_urls(readme, root)
+            first = readme.read_text()
+            self.assertTrue(first.startswith("Intro\n"))
+            self.assertIn("Footer", first)
+            self.assertNotIn("-->old<!--", first)
+            self.assertEqual(first.count("?v="), 4)
+            cards.update_image_urls(readme, root)
+            self.assertEqual(first, readme.read_text())
+            (root / "stats.svg").write_text("<svg>changed</svg>")
+            cards.update_image_urls(readme, root)
+            self.assertNotEqual(first, readme.read_text())
+
     def test_streak_today_and_yesterday(self):
         start = date(2026, 1, 1)
         def days(counts):

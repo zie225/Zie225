@@ -5,6 +5,8 @@ on:
     branches: [master]
     paths:
       - "scripts/generate_profile_cards.py"
+      - "scripts/test_generate_profile_cards.py"
+      - "profile/banner.svg"
       - ".github/workflows/update-profile-cards.yml"
   workflow_dispatch:
   schedule:
@@ -29,6 +31,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Test profile generator
+        run: python -B -m unittest discover -s scripts -p 'test_*.py'
 
       - name: Generate cards from public GitHub data
         env:

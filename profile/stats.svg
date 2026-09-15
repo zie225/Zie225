@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-label="GitHub Stats">
-<rect width="100%" height="100%" rx="16" fill="#0d1117"/>
-<text x="32" y="44" fill="#e6edf3" font-size="28" font-family="Arial, sans-serif">GitHub Stats</text>
-<text x="32" y="74" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">@zie225 | Public GitHub activity</text>
-<text x="32" y="114" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Public repos</text>
-<text x="32" y="150" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">443</text>
-<text x="292" y="114" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Stars received</text>
-<text x="292" y="150" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">143</text>
-<text x="552" y="114" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Followers</text>
-<text x="552" y="150" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">56</text>
-<text x="32" y="202" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Following</text>
-<text x="32" y="238" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">213</text>
-<text x="292" y="202" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Forks received</text>
-<text x="292" y="238" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">187</text>
-<text x="552" y="202" fill="#8b949e" font-size="15" font-family="Arial, sans-serif">Contributions (12 mo)</text>
-<text x="552" y="238" fill="#79c0ff" font-size="30" font-family="Arial, sans-serif">56</text>
-<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 10:07 UTC</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="310" viewBox="0 0 820 310" role="img" aria-label="GitHub at a glance">
+<rect x="1" y="1" width="818" height="308" rx="18" fill="#0b1220" stroke="#26344b"/>
+<rect x="32" y="29" width="4" height="24" rx="2" fill="#63e6be"/>
+<text x="48" y="48" fill="#e6edf3" font-size="26" font-family="Arial, sans-serif">GitHub at a glance</text>
+<text x="32" y="78" fill="#a2b1c6" font-size="15" font-family="Arial, sans-serif">@zie225 | Public repositories and contributions</text>
+<text x="32" y="114" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Public repos</text>
+<text x="32" y="150" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">443</text>
+<text x="292" y="114" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Non-fork repos</text>
+<text x="292" y="150" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">33</text>
+<text x="552" y="114" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Followers</text>
+<text x="552" y="150" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">56</text>
+<text x="32" y="202" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Following</text>
+<text x="32" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">213</text>
+<text x="292" y="202" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Stars / non-fork repos</text>
+<text x="292" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">32</text>
+<text x="552" y="202" fill="#a2b1c6" font-size="16" font-family="Arial, sans-serif">Contributions (12 mo)</text>
+<text x="552" y="238" fill="#7dd3fc" font-size="34" font-family="Arial, sans-serif">56</text>
+<text x="32" y="292" fill="#8b949e" font-size="12" font-family="Arial, sans-serif">Updated 2026-09-15 10:12 UTC</text>
 </svg>
