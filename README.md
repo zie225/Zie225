@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=4da63439a9fedf8e" alt="Mamadou Coulibaly — Data Scientist and Data Engineer. From raw data to useful intelligence."/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=f4a022c22ba90d40" alt="Mamadou Coulibaly — Data Scientist and Data Engineer. From raw data to useful intelligence."/>
 </p>
 
 <p align="center">
@@ -97,17 +97,17 @@ Exploring low-cost soil moisture sensors, calibration and Raspberry Pi for agric
 Public activity, refreshed daily. Each card includes its update time.
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=0119509519e78170" alt="Mamadou GitHub Stats"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=af73a06f8fe9874b" alt="Mamadou GitHub Stats"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=f8ca15221069dc8c" alt="Mamadou GitHub Streak and contribution activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=3cb97b50e1a747fa" alt="Mamadou GitHub Streak and contribution activity"/>
 </p>
 
 <details>
 <summary><b>Language distribution across my repositories</b></summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=96307c7dead70ab1" alt="Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=c3dd54ddf39b8604" alt="Mamadou Top Languages"/>
 </p>
 
 Languages are counted by the primary language of each public, non-fork repository, rather than lines of code.
