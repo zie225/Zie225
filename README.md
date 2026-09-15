@@ -29,19 +29,15 @@
 ## 🌐 Connect with me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://www.instagram.com/mczie225/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="https://github.com/zie225" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
 </p>
 
 ---
@@ -265,6 +261,7 @@ IoT
 
 # 📊 GitHub Stats
 
+<<<<<<< HEAD
 <!--
 These cards are generated once a day by GitHub Actions and committed
 inside this repository. This avoids broken cards caused by public API
@@ -274,12 +271,18 @@ rate limits every time somebody opens the profile.
 <p align="center">
   <img width="49%" src="./profile/stats.svg" alt="Mamadou GitHub Stats"/>
   <img width="49%" src="./profile/top-langs.svg" alt="Mamadou Top Languages"/>
+=======
+<p align="center">
+  <img width="49%" src="profile/stats.svg" alt="Mamadou GitHub Stats"/>
+  <img width="49%" src="profile/top-langs.svg" alt="Mamadou Top Languages"/>
+>>>>>>> main
 </p>
 
 ---
 
 # 🔥 GitHub Streak
 
+<<<<<<< HEAD
 <!--
 This streak card is generated from GitHub's GraphQL API by
 scripts/generate_streak.py and stored locally in the repository.
@@ -287,6 +290,10 @@ scripts/generate_streak.py and stored locally in the repository.
 
 <p align="center">
   <img src="./profile/streak.svg" alt="Mamadou GitHub Streak"/>
+=======
+<p align="center">
+  <img width="70%" src="profile/streak.svg" alt="Mamadou GitHub Streak"/>
+>>>>>>> main
 </p>
 
 ---
@@ -294,10 +301,14 @@ scripts/generate_streak.py and stored locally in the repository.
 # 👀 Profile Views
 
 <p align="center">
+<<<<<<< HEAD
   <img
     src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
   />
+=======
+  <img src="https://komarev.com/ghpvc/?username=zie225&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+>>>>>>> main
 </p>
 
 ---
