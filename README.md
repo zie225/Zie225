@@ -223,17 +223,17 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=b301271df31ea92b" alt="Zie Mamadou GitHub Stats"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=f75a5ac1576062ad" alt="Zie Mamadou GitHub Stats"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=f544e599bc5e59da" alt="Zie Mamadou GitHub Streak and contribution activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=683c60391056a76b" alt="Zie Mamadou GitHub Streak and contribution activity"/>
 </p>
 
 <details>
 <summary><b>Répartition des langages sur l'ensemble des dépôts</b></summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=cab915b4ae064aa1" alt="Zie Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=6cbccd15d7b05905" alt="Zie Mamadou Top Languages"/>
 </p>
 
 > *Les pourcentages sont calculés en fonction du langage principal de chaque dépôt public (hors forks).*
