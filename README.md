@@ -264,12 +264,13 @@ IoT
 
 <!--
 These cards are committed to the repository and loaded directly from GitHub,
-so they remain stable and do not depend on third-party APIs.
+The daily workflow refreshes public GitHub data and preserves the last valid cards on failure.
+Languages count primary languages of non-fork repositories; streaks cover the displayed 12-month calendar.
 -->
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg" alt="Mamadou GitHub Stats"/>
-  <img width="49%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg" alt="Mamadou Top Languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="Mamadou GitHub Stats"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Mamadou Top Languages"/>
 </p>
 
 ---
@@ -277,7 +278,7 @@ so they remain stable and do not depend on third-party APIs.
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img width="70%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg" alt="Mamadou GitHub Streak"/>
+  <img width="70%" src="./profile/streak.svg" alt="Mamadou GitHub Streak"/>
 </p>
 
 ---
