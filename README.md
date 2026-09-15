@@ -1,15 +1,15 @@
 ﻿<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=a5be1eedac64dc2b" alt="Zie Mamadou Coulibaly — Data Scientist and Data Engineer. From raw data to useful intelligence."/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=e0c5ca0fd89169d5" alt="Zie Mamadou Coulibaly — Data Scientist, Data Engineer, Cloud & Remote Server Admin."/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Zie+Mamadou+Coulibaly+%E2%80%94+Data+Scientist+%26+Data+Engineer+%F0%9F%9A%80;Ing%C3%A9nieur+Data+%26+Intelligence+Artificielle+%E2%9A%A1;Machine+Learning+%C2%B7+Pipelines+ETL+%C2%B7+MLOps+%C2%B7+Cloud+%F0%9F%92%A1;De+la+donn%C3%A9e+brute+aux+syst%C3%A8mes+d'IA+de+production+%F0%9F%8C%90" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Zie+Mamadou+Coulibaly+%E2%80%94+Data+Scientist+%26+Engineer+%F0%9F%9A%80;Ing%C3%A9nieur+Data+%C2%B7+Cloud+Computing+%C2%B7+Intelligence+Artificielle+%E2%9A%A1;Admin+Serveurs+Distants+%C2%B7+Linux+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+SSH+%F0%9F%96%A5%EF%B8%8F;Pipelines+ETL+%C2%B7+MLOps+%C2%B7+Architectures+Cloud+Scalables+%F0%9F%92%A1;De+la+donn%C3%A9e+brute+aux+syst%C3%A8mes+d'IA+de+production+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=for-the-badge&logo=linkedin&logoColor=101827&labelColor=101827" alt="Connect on LinkedIn"/></a>
   <a href="mailto:coulibalyziemamadou@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-60A5FA?style=for-the-badge&logo=gmail&logoColor=101827&labelColor=101827" alt="Email Zie Mamadou"/></a>
-  <img src="https://img.shields.io/badge/Open_to_work-Data_%26_AI-3B82F6?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=101827" alt="Open to work in Data and AI"/>
+  <img src="https://img.shields.io/badge/Open_to_work-Data_%26_Cloud-3B82F6?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=101827" alt="Open to work in Data, AI & Cloud"/>
   <img src="https://komarev.com/ghpvc/?username=zie225&color=38bdf8&style=for-the-badge&label=VUES+PROFIL" alt="Profile Views"/>
 </p>
 
@@ -27,9 +27,9 @@
 <a name="about"></a>
 ## 🚀 À propos de moi
 
-Je suis **Zie Mamadou Coulibaly**, **Ingénieur en Data Science & Data Engineering**. Je conçois et déploie des solutions pérennes qui couvrent l'intégralité du cycle de vie de la donnée : de la capture de signaux physiques (IoT, télémétrie, flux temps réel) à la construction d'architectures distribuées et au déploiement de modèles d'Intelligence Artificielle en production.
+Je suis **Zie Mamadou Coulibaly**, **Ingénieur en Data Science & Data Engineering**, spécialisé en **Cloud Computing** et **Administration de Serveurs Distants**. Je conçois et opère des architectures de données complètes et résilientes, de la capture de télémétrie physique à l'hébergement sécurisé sur serveurs distants et au déploiement de modèles d'Intelligence Artificielle de pointe.
 
-Mon approche associe **rigueur mathématique, ingénierie logicielle avancée et pratiques MLOps**, avec une forte expertise appliquée aux données environnementales, aux séries temporelles, à la vision par ordinateur et à l'IoT.
+Mon travail allie **modélisation prédictive avancée, pipelines de données massifs, administration système Linux et MLOps**, avec une solide expertise sur les environnements distribués, les séries temporelles et l'IoT.
 
 <br/>
 
@@ -38,35 +38,44 @@ Mon approche associe **rigueur mathématique, ingénierie logicielle avancée et
 <td width="50%" valign="top">
 
 ### 🧠 Intelligence Artificielle & Modélisation
-- **Approches :** Deep Learning, Machine Learning supervisé / non-supervisé, Séries Temporelles, Computer Vision
-- **Explicabilité & Fiabilité :** Interprétabilité algorithmique (**SHAP**, **LIME**), mitigation des dérives (*data drift*) et validation statistique
-- **Finalité :** Modèles haute performance, robustes aux bruits et optimisés pour le passage à l'échelle
+- **Méthodologies :** Deep Learning, Machine Learning supervisé & non-supervisé, Computer Vision, Séries Temporelles
+- **Rigueur & Explicabilité :** Interprétabilité algorithmique (**SHAP**, **LIME**), surveillance de dérive de données (*data drift*) et validation statistique
+- **Objectif :** Modèles performants, robustes et taillés pour la production
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔄 Data Engineering & Systèmes Distribués
-- **Architectures :** Pipelines ETL/ELT temps réel & batch, architectures Lakehouse / Data Warehouse
+- **Architectures :** Pipelines ETL/ELT haut débit, architectures Data Lakehouse / Data Warehouse
 - **Orchestration & Stockage :** Workflows résilients avec **Apache Airflow**, bases relationnelles et analytiques (**PostgreSQL**, **Snowflake**, **PostGIS**)
-- **Finalité :** Flux de données intègres, idempotents et hautement disponibles
+- **Objectif :** Flux de données fiables, idempotents et hautement disponibles
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ MLOps, DevOps & Déploiement Continu
-- **Conteneurisation :** Environnements reproductibles et isolés avec **Docker** & **Docker Compose**
-- **Cycle de vie du ML :** Tracking d'expériences et gouvernance de modèles avec **MLflow**, stockage objet S3-compatible (**MinIO**)
-- **Automatisation :** Pipelines CI/CD robustes avec **GitHub Actions** pour tests et déploiements sans friction
+### ☁️ Cloud Computing & Admin Serveurs Distants
+- **Administration Serveurs Linux :** Gestion de serveurs distants (**Ubuntu Server**, **Debian**, VPS & dédiés), automatisation **Bash**, accès sécurisé **SSH** & durcissement système (**UFW**, Fail2ban)
+- **Réseau & Reverse Proxy :** Configuration **Nginx**, routage, certificats SSL/TLS automatiques (Certbot) et load balancing
+- **Cloud & Stockage :** Déploiement multi-environnements (**AWS**, **GCP**, stockage S3/MinIO) et gestion des ressources
 
 </td>
 <td width="50%" valign="top">
 
+### ⚙️ MLOps, DevOps & Déploiement Continu
+- **Conteneurisation :** Isolation et reproductibilité via **Docker**, **Docker Compose** & gestion via **Portainer**
+- **Cycle de vie du ML :** Tracking d'expériences, comparaison et registry de modèles avec **MLflow**
+- **Automatisation :** Pipelines CI/CD industriels avec **GitHub Actions** pour tests, builds et déploiements sans interruption
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### 📡 Systèmes Connectés, IoT & Edge Computing
-- **Acquisition temps réel :** Traitement de télémétrie capteurs, protocoles légers (**MQTT**, WebSockets, APIs REST)
-- **Edge Computing :** Intégration sur cibles embarquées (**Raspberry Pi**, **Arduino**)
-- **Applications :** Agritech de précision, monitoring environnemental et optimisation énergétique
+- **Télémétrie & Capteurs :** Acquisition et streaming en temps réel, protocoles IoT légers (**MQTT**, WebSockets, APIs REST)
+- **Systèmes Embarqués :** Intégration sur cibles matérielles (**Raspberry Pi**, **Arduino**) et edge processing pour l'Agritech de précision et la veille environnementale
 
 </td>
 </tr>
@@ -139,13 +148,25 @@ Mon approche associe **rigueur mathématique, ingénierie logicielle avancée et
 
 <div align="center">
 
+#### ☁️ Cloud Computing & Administration de Serveurs Distants
+<p>
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Server"/>
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/SSH_&_Terminal-24292E?style=for-the-badge&logo=gnubash&logoColor=white" alt="SSH Remote Admin"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Reverse Proxy"/>
+  <img src="https://img.shields.io/badge/Portainer-13BEBB?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer"/>
+</p>
+
 #### 💻 Langages & Core Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -169,16 +190,16 @@ Mon approche associe **rigueur mathématique, ingénierie logicielle avancée et
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+  <img src="https://img.shields.io/badge/MinIO_S3-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
 </p>
 
-#### ⚙️ MLOps, DevOps & Infrastructure
+#### ⚙️ MLOps, DevOps & Conteneurisation
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 #### 📡 IoT, Embarqué, Web & Business Intelligence
@@ -202,17 +223,17 @@ Mon approche associe **rigueur mathématique, ingénierie logicielle avancée et
 Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=8c864d8e20241b9a" alt="Zie Mamadou GitHub Stats"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=b301271df31ea92b" alt="Zie Mamadou GitHub Stats"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=3c48d6f8fd031059" alt="Zie Mamadou GitHub Streak and contribution activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=f544e599bc5e59da" alt="Zie Mamadou GitHub Streak and contribution activity"/>
 </p>
 
 <details>
 <summary><b>Répartition des langages sur l'ensemble des dépôts</b></summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=539b2853b277e8b2" alt="Zie Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=cab915b4ae064aa1" alt="Zie Mamadou Top Languages"/>
 </p>
 
 > *Les pourcentages sont calculés en fonction du langage principal de chaque dépôt public (hors forks).*
@@ -258,12 +279,36 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
 ---
 
 <a name="contact"></a>
-<p align="center">
-  <b>Un projet data, IA ou une opportunité de collaboration ?</b><br/>
-  Je suis à l'écoute d'opportunités à fort impact en <b>Data Science, Data Engineering et IA</b>.<br/><br/>
-  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/"><img src="https://img.shields.io/badge/LinkedIn-Discutons-38BDF8?style=for-the-badge&logo=linkedin&logoColor=101827&labelColor=101827" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:coulibalyziemamadou@gmail.com"><img src="https://img.shields.io/badge/Email-M'écrire-60A5FA?style=for-the-badge&logo=gmail&logoColor=101827&labelColor=101827" alt="Email"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/mczie225/"><img src="https://img.shields.io/badge/Instagram-Suivre-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101827" alt="Instagram"/></a>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" style="padding: 30px; background-color: #0b1220; border: 2px solid #1e3a8a; border-radius: 16px;">
+
+### 🤝 Un projet data, IA, Cloud ou une opportunité de collaboration ?
+
+<p style="font-size: 16px; color: #cbd5e1; max-width: 820px; line-height: 1.7;">
+Je suis disponible et à l'écoute d'opportunités à fort impact technique en :<br/>
+<b>🚀 Data Science &amp; Intelligence Artificielle</b> &nbsp;&bull;&nbsp;
+<b>🔄 Data Engineering &amp; Big Data</b><br/>
+<b>☁️ Cloud Computing &amp; Architecture MLOps</b> &nbsp;&bull;&nbsp;
+<b>🖥️ Administration de Serveurs Distants (Linux / Nginx / SSH)</b>
 </p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/"><img src="https://img.shields.io/badge/LinkedIn-Échanger_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:coulibalyziemamadou@gmail.com"><img src="https://img.shields.io/badge/Email-Me_Contacter_Directement-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42" alt="Email"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zie225?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explorer_mes_Dépôts-181717?style=for-the-badge&logo=github&logoColor=white" height="42" alt="GitHub Repositories"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mczie225/"><img src="https://img.shields.io/badge/Instagram-Me_Suivre-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42" alt="Instagram"/></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>

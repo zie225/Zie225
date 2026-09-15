@@ -1,6 +1,6 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
-<title id="title">Zie Mamadou Coulibaly · Data Scientist / Data Engineer</title>
-<desc id="desc">From raw data to useful intelligence. An animated data pipeline connects data, models and delivery.</desc>
+<title id="title">Zie Mamadou Coulibaly · Data & Cloud Systems Engineer</title>
+<desc id="desc">Data Science, Data Engineering, Cloud Computing & Remote Server Administration.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#18213a"/></linearGradient>
  <linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
@@ -17,13 +17,13 @@
 <path d="M32 1H928" stroke="url(#line)" stroke-width="2"/>
 <circle cx="790" cy="152" r="112" fill="none" stroke="#38bdf8" stroke-opacity=".12"/>
 <circle cx="790" cy="152" r="78" fill="none" stroke="#38bdf8" stroke-opacity=".09"/>
-<text x="42" y="53" fill="#38bdf8" font-size="13" letter-spacing="3">DATA / INTELLIGENCE / ENGINEERING</text>
+<text x="42" y="53" fill="#38bdf8" font-size="13" letter-spacing="3">DATA / IA / CLOUD COMPUTING / SERVEURS DISTANTS</text>
 <text x="40" y="116" fill="#f0f6fc" font-size="44" font-weight="700">Zie Mamadou Coulibaly<tspan fill="#38bdf8">.</tspan></text>
-<text x="42" y="158" fill="#7dd3fc" font-size="23">Data Scientist / Data Engineer</text>
-<text x="42" y="202" fill="#c3cddd" font-size="19">From raw data to useful intelligence.</text>
-<text x="42" y="230" fill="#91a1b8" font-size="15">Machine Learning · Data Platforms · MLOps · IoT</text>
+<text x="42" y="158" fill="#7dd3fc" font-size="23">Data Scientist · Data Engineer · Cloud &amp; Remote Server Admin</text>
+<text x="42" y="202" fill="#c3cddd" font-size="19">From raw data &amp; remote servers to scalable production intelligence.</text>
+<text x="42" y="230" fill="#91a1b8" font-size="15">Machine Learning · Data Pipelines · Cloud Architecture · Linux Server Admin · MLOps</text>
 <path d="M64 288H895" stroke="#334155" stroke-width="2"/>
 <path class="signal" d="M64 288H895" stroke="url(#line)" stroke-width="2"/>
 <g fill="#101b2d" stroke="#385167"><rect x="42" y="267" width="170" height="42" rx="10"/><rect x="278" y="267" width="170" height="42" rx="10"/><rect x="514" y="267" width="170" height="42" rx="10"/><rect x="750" y="267" width="170" height="42" rx="10"/></g>
-<g fill="#dbeafe" font-size="14" text-anchor="middle"><text x="127" y="293">01 / COLLECT</text><text x="363" y="293">02 / UNDERSTAND</text><text x="599" y="293">03 / MODEL</text><text x="835" y="293">04 / DELIVER</text></g>
+<g fill="#dbeafe" font-size="14" text-anchor="middle"><text x="127" y="293">01 / COLLECT &amp; INGEST</text><text x="363" y="293">02 / CLOUD &amp; SERVERS</text><text x="599" y="293">03 / MODEL &amp; AI</text><text x="835" y="293">04 / DEPLOY &amp; SCALE</text></g>
 </svg>
