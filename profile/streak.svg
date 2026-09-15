@@ -1,5 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub Streak placeholder">
-  <rect width="495" height="195" rx="8" fill="#0d1117"/>
-  <text x="247.5" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#e6edf3">GitHub Streak</text>
-  <text x="247.5" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#8b949e">Run the “Update Profile Cards” workflow once</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240" role="img" aria-label="GitHub Streak">
+<rect width="100%" height="100%" fill="#0d1117" rx="16"/>
+<text x="40" y="42" fill="#e6edf3" font-size="28" font-family="Arial, sans-serif" font-weight="700">GitHub Streak</text>
+<text x="40" y="92" fill="#ff7b72" font-size="18" font-family="Arial, sans-serif">🔥 Active developer</text>
+<text x="40" y="134" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Public repos: 443</text>
+<text x="40" y="166" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Followers: 56</text>
+<text x="40" y="198" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Joined: 2016-03-21</text>
 </svg>
