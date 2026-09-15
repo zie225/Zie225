@@ -1,9 +1,9 @@
 ﻿<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=e0c5ca0fd89169d5" alt="Zie Mamadou Coulibaly — Data Scientist, Data Engineer, Cloud & Remote Server Admin."/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/banner.svg?v=64b7730cd5fd12f5" alt="Zie Mamadou Coulibaly | Data Scientist, Data Engineer, Cloud & Remote Server Admin."/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Zie+Mamadou+Coulibaly+%E2%80%94+Data+Scientist+%26+Engineer+%F0%9F%9A%80;Ing%C3%A9nieur+Data+%C2%B7+Cloud+Computing+%C2%B7+Intelligence+Artificielle+%E2%9A%A1;Admin+Serveurs+Distants+%C2%B7+Linux+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+SSH+%F0%9F%96%A5%EF%B8%8F;Pipelines+ETL+%C2%B7+MLOps+%C2%B7+Architectures+Cloud+Scalables+%F0%9F%92%A1;De+la+donn%C3%A9e+brute+aux+syst%C3%A8mes+d'IA+de+production+%F0%9F%8C%90" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Zie+Mamadou+Coulibaly+|+Data+Scientist+%26+Engineer+%F0%9F%9A%80;Ing%C3%A9nieur+Data+|+Cloud+Computing+|+Intelligence+Artificielle+%E2%9A%A1;Admin+Serveurs+Distants+|+Linux+|+Docker+|+Nginx+|+SSH+%F0%9F%96%A5%EF%B8%8F;Pipelines+ETL+|+MLOps+|+Architectures+Cloud+Scalables+%F0%9F%92%A1;De+la+donn%C3%A9e+brute+aux+syst%C3%A8mes+d'IA+de+production+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 </p>
 
 <p align="center">
-  <a href="#about"><b>À propos</b></a> &nbsp; &bull; &nbsp;
-  <a href="#selected-work"><b>Projets clés</b></a> &nbsp; &bull; &nbsp;
-  <a href="#toolbox"><b>Stack & Toolbox</b></a> &nbsp; &bull; &nbsp;
-  <a href="#github-pulse"><b>Statistiques</b></a> &nbsp; &bull; &nbsp;
-  <a href="#contribution-snake"><b>Activité Snake</b></a> &nbsp; &bull; &nbsp;
+  <a href="#about"><b>À propos</b></a> &nbsp; | &nbsp;
+  <a href="#selected-work"><b>Projets clés</b></a> &nbsp; | &nbsp;
+  <a href="#toolbox"><b>Stack &amp; Toolbox</b></a> &nbsp; | &nbsp;
+  <a href="#github-pulse"><b>Statistiques</b></a> &nbsp; | &nbsp;
+  <a href="#contribution-snake"><b>Activité Snake</b></a> &nbsp; | &nbsp;
   <a href="#contact"><b>Contact</b></a>
 </p>
 
----
+<br/>
 
 <a name="about"></a>
 ## 🚀 À propos de moi
@@ -38,17 +38,17 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <td width="50%" valign="top">
 
 ### 🧠 Intelligence Artificielle & Modélisation
-- **Méthodologies :** Deep Learning, Machine Learning supervisé & non-supervisé, Computer Vision, Séries Temporelles
-- **Rigueur & Explicabilité :** Interprétabilité algorithmique (**SHAP**, **LIME**), surveillance de dérive de données (*data drift*) et validation statistique
-- **Objectif :** Modèles performants, robustes et taillés pour la production
+▹ **Méthodologies :** Deep Learning, Machine Learning supervisé & non-supervisé, Computer Vision, Séries Temporelles<br/>
+▹ **Rigueur & Explicabilité :** Interprétabilité algorithmique (**SHAP**, **LIME**), surveillance de dérive de données et validation statistique<br/>
+▹ **Objectif :** Modèles performants, robustes et taillés pour la production
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔄 Data Engineering & Systèmes Distribués
-- **Architectures :** Pipelines ETL/ELT haut débit, architectures Data Lakehouse / Data Warehouse
-- **Orchestration & Stockage :** Workflows résilients avec **Apache Airflow**, bases relationnelles et analytiques (**PostgreSQL**, **Snowflake**, **PostGIS**)
-- **Objectif :** Flux de données fiables, idempotents et hautement disponibles
+▹ **Architectures :** Pipelines ETL/ELT haut débit, architectures Data Lakehouse / Data Warehouse<br/>
+▹ **Orchestration & Stockage :** Workflows résilients avec **Apache Airflow**, bases relationnelles et analytiques (**PostgreSQL**, **Snowflake**, **PostGIS**)<br/>
+▹ **Objectif :** Flux de données fiables, idempotents et hautement disponibles
 
 </td>
 </tr>
@@ -56,17 +56,17 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <td width="50%" valign="top">
 
 ### ☁️ Cloud Computing & Admin Serveurs Distants
-- **Administration Serveurs Linux :** Gestion de serveurs distants (**Ubuntu Server**, **Debian**, VPS & dédiés), automatisation **Bash**, accès sécurisé **SSH** & durcissement système (**UFW**, Fail2ban)
-- **Réseau & Reverse Proxy :** Configuration **Nginx**, routage, certificats SSL/TLS automatiques (Certbot) et load balancing
-- **Cloud & Stockage :** Déploiement multi-environnements (**AWS**, **GCP**, stockage S3/MinIO) et gestion des ressources
+▹ **Administration Serveurs Linux :** Gestion de serveurs distants (**Ubuntu Server**, **Debian**, VPS & dédiés), automatisation **Bash**, accès sécurisé **SSH** & durcissement système (**UFW**, Fail2ban)<br/>
+▹ **Réseau & Reverse Proxy :** Configuration **Nginx**, routage, certificats SSL/TLS automatiques (Certbot) et load balancing<br/>
+▹ **Cloud & Stockage :** Déploiement multi-environnements (**AWS**, **GCP**, stockage S3/MinIO) et gestion des ressources
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ MLOps, DevOps & Déploiement Continu
-- **Conteneurisation :** Isolation et reproductibilité via **Docker**, **Docker Compose** & gestion via **Portainer**
-- **Cycle de vie du ML :** Tracking d'expériences, comparaison et registry de modèles avec **MLflow**
-- **Automatisation :** Pipelines CI/CD industriels avec **GitHub Actions** pour tests, builds et déploiements sans interruption
+▹ **Conteneurisation :** Isolation et reproductibilité via **Docker**, **Docker Compose** & gestion via **Portainer**<br/>
+▹ **Cycle de vie du ML :** Tracking d'expériences, comparaison et registry de modèles avec **MLflow**<br/>
+▹ **Automatisation :** Pipelines CI/CD industriels avec **GitHub Actions** pour tests, builds et déploiements sans interruption
 
 </td>
 </tr>
@@ -74,14 +74,14 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <td colspan="2" valign="top">
 
 ### 📡 Systèmes Connectés, IoT & Edge Computing
-- **Télémétrie & Capteurs :** Acquisition et streaming en temps réel, protocoles IoT légers (**MQTT**, WebSockets, APIs REST)
-- **Systèmes Embarqués :** Intégration sur cibles matérielles (**Raspberry Pi**, **Arduino**) et edge processing pour l'Agritech de précision et la veille environnementale
+▹ **Télémétrie & Capteurs :** Acquisition et streaming en temps réel, protocoles IoT légers (**MQTT**, WebSockets, APIs REST)<br/>
+▹ **Systèmes Embarqués :** Intégration sur cibles matérielles (**Raspberry Pi**, **Arduino**) et edge processing pour l'Agritech de précision et la veille environnementale
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 <a name="selected-work"></a>
 ## 💡 Projets Sélectionnés
@@ -90,7 +90,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <tr>
 <td width="50%" valign="top">
 
-### 01 · [Machine Learning Pipeline avec Airflow →](https://github.com/zie225/ml-pipeline-airflow)
+### 01 ✦ [Machine Learning Pipeline avec Airflow](https://github.com/zie225/ml-pipeline-airflow)
 > Pipeline complet de Machine Learning conteneurisé intégrant la validation automatique des données, l'entraînement et l'évaluation continue.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -102,7 +102,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 </td>
 <td width="50%" valign="top">
 
-### 02 · [ETL & Orchestration Géographique →](https://github.com/zie225/etl_airflow)
+### 02 ✦ [ETL & Orchestration Géographique](https://github.com/zie225/etl_airflow)
 > Pipeline d'ingestion et de transformation de données environnementales et de pollution spatiale avec Airflow et PostgreSQL.
 <p>
   <img src="https://img.shields.io/badge/ETL-Pipeline-38BDF8?style=flat-square"/>
@@ -116,7 +116,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <tr>
 <td width="50%" valign="top">
 
-### 03 · [Plateforme MLOps avec MLflow & Docker →](https://github.com/zie225/mlflow_prefect_docker)
+### 03 ✦ [Plateforme MLOps avec MLflow & Docker](https://github.com/zie225/mlflow_prefect_docker)
 > Environnement de tracking d'expériences complet avec serveur MLflow, PostgreSQL et stockage d'artefacts MinIO via Docker Compose.
 <p>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
@@ -128,7 +128,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 </td>
 <td width="50%" valign="top">
 
-### 04 · [Agritech & IoT Capteurs d'Humidité →](https://github.com/zie225/Ab5_Consulting_Agritech)
+### 04 ✦ [Agritech & IoT Capteurs d'Humidité](https://github.com/zie225/Ab5_Consulting_Agritech)
 > Conception de solutions agritech avec calibrage de capteurs d'humidité de sol et passerelle IoT Raspberry Pi pour l'agriculture connectée.
 <p>
   <img src="https://img.shields.io/badge/IoT-Sensors-38BDF8?style=flat-square"/>
@@ -141,7 +141,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 </tr>
 </table>
 
----
+<br/>
 
 <a name="toolbox"></a>
 ## 🛠️ Boîte à outils & Stack Technique
@@ -175,7 +175,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -215,7 +215,7 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 
 </div>
 
----
+<br/>
 
 <a name="github-pulse"></a>
 ## 📈 Activité GitHub en temps réel
@@ -223,24 +223,24 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=f75a5ac1576062ad" alt="Zie Mamadou GitHub Stats"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=54f5f7babcfd0c04" alt="Zie Mamadou GitHub Stats"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=683c60391056a76b" alt="Zie Mamadou GitHub Streak and contribution activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=449e4d1a8472090f" alt="Zie Mamadou GitHub Streak and contribution activity"/>
 </p>
 
 <details>
 <summary><b>Répartition des langages sur l'ensemble des dépôts</b></summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=6cbccd15d7b05905" alt="Zie Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=1609611167279492" alt="Zie Mamadou Top Languages"/>
 </p>
 
 > *Les pourcentages sont calculés en fonction du langage principal de chaque dépôt public (hors forks).*
 
 </details>
 
----
+<br/>
 
 <a name="contribution-snake"></a>
 ## 🐍 Snake de Contributions
@@ -253,7 +253,7 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
   </picture>
 </div>
 
----
+<br/>
 
 ### ⏱️ Dépôts récemment mis à jour
 
@@ -268,7 +268,7 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <!-- RECENT-REPOS:END -->
 
----
+<br/>
 
 ### 💭 Inspiration Dev
 
@@ -276,7 +276,7 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote"/>
 </div>
 
----
+<br/>
 
 <a name="contact"></a>
 <div align="center">
@@ -289,9 +289,9 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <p style="font-size: 16px; color: #cbd5e1; max-width: 820px; line-height: 1.7;">
 Je suis disponible et à l'écoute d'opportunités à fort impact technique en :<br/>
-<b>🚀 Data Science &amp; Intelligence Artificielle</b> &nbsp;&bull;&nbsp;
+<b>🚀 Data Science &amp; Intelligence Artificielle</b> &nbsp;✦&nbsp;
 <b>🔄 Data Engineering &amp; Big Data</b><br/>
-<b>☁️ Cloud Computing &amp; Architecture MLOps</b> &nbsp;&bull;&nbsp;
+<b>☁️ Cloud Computing &amp; Architecture MLOps</b> &nbsp;✦&nbsp;
 <b>🖥️ Administration de Serveurs Distants (Linux / Nginx / SSH)</b>
 </p>
 
