@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Generate profile SVGs; fetch and validate all data before replacing any card."""
+import hashlib
 import json
 import os
 import re
@@ -92,6 +93,18 @@ def card(title, subtitle, body, height=310):
     ])
 
 
+def update_image_urls(readme, profile_dir):
+    content = readme.read_text(encoding="utf-8")
+    for name in ("stats", "top-langs", "streak"):
+        version = hashlib.sha256((profile_dir / f"{name}.svg").read_bytes()).hexdigest()[:16]
+        url = f"https://raw.githubusercontent.com/zie225/Zie225/master/profile/{name}.svg?v={version}"
+        content = re.sub(
+            rf'src="(?:\./profile/|https://raw\.githubusercontent\.com/zie225/Zie225/master/profile/){name}\.svg(?:\?[^\"]*)?"',
+            f'src="{url}"', content,
+        )
+    readme.write_text(content, encoding="utf-8")
+
+
 def generate():
     user = api(f"/users/{USER}")
     repos = []
@@ -144,6 +157,7 @@ def generate():
         temporary = PROFILE_DIR / f"{name}.svg.tmp"
         temporary.write_text(svg, encoding="utf-8")
         temporary.replace(PROFILE_DIR / f"{name}.svg")
+    update_image_urls(ROOT / "README.md", PROFILE_DIR)
     print(f"Generated cards for {USER}: {len(repos)} repos, {len(days)} calendar days")
 
 
