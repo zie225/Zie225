@@ -138,15 +138,25 @@ def draw_languages_card():
 
 
 def draw_streak_card():
-    width, height = 820, 240
+    width, height = 980, 260
     svg = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="GitHub Streak">',
         '<rect width="100%" height="100%" fill="#0d1117" rx="16"/>',
-        '<text x="40" y="42" fill="#e6edf3" font-size="28" font-family="Arial, sans-serif" font-weight="700">GitHub Streak</text>',
-        f'<text x="40" y="92" fill="#ff7b72" font-size="18" font-family="Arial, sans-serif">🔥 Active developer</text>',
-        f'<text x="40" y="134" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Public repos: {safe_get(user, "public_repos", 0)}</text>',
-        f'<text x="40" y="166" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Followers: {safe_get(user, "followers", 0)}</text>',
-        f'<text x="40" y="198" fill="#c9d1d9" font-size="20" font-family="Arial, sans-serif">Joined: {user.get("created_at", "")[:10]}</text>',
+        '<text x="40" y="46" fill="#e6edf3" font-size="30" font-family="Arial, sans-serif" font-weight="700">GitHub Streak</text>',
+        '<text x="40" y="94" fill="#ff8c42" font-size="18" font-family="Arial, sans-serif">🔥 Active developer</text>',
+        f'<text x="40" y="138" fill="#c9d1d9" font-size="22" font-family="Arial, sans-serif">Public repos: {safe_get(user, "public_repos", 0)}</text>',
+        f'<text x="40" y="172" fill="#c9d1d9" font-size="22" font-family="Arial, sans-serif">Followers: {safe_get(user, "followers", 0)}</text>',
+        f'<text x="40" y="206" fill="#c9d1d9" font-size="22" font-family="Arial, sans-serif">Joined: {user.get("created_at", "")[:10]}</text>',
+        '<g transform="translate(640 42)">',
+        '<rect x="0" y="0" width="250" height="140" rx="16" fill="#111827" stroke="#ff8c42" stroke-opacity="0.4"/>',
+        '<rect x="28" y="30" width="18" height="68" fill="#ff8c42" rx="6"/>',
+        '<rect x="58" y="46" width="18" height="52" fill="#ff9a3d" rx="6"/>',
+        '<rect x="88" y="20" width="18" height="78" fill="#ffa84d" rx="6"/>',
+        '<rect x="118" y="52" width="18" height="46" fill="#ff7b72" rx="6"/>',
+        '<rect x="148" y="35" width="18" height="63" fill="#ff8c42" rx="6"/>',
+        '<rect x="178" y="12" width="18" height="86" fill="#ffb15d" rx="6"/>',
+        '<rect x="208" y="58" width="18" height="40" fill="#ff8c42" rx="6"/>',
+        '</g>',
         '</svg>',
     ]
     return "\n".join(svg)
