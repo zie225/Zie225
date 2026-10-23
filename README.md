@@ -223,17 +223,17 @@ Mon travail allie **modélisation prédictive avancée, pipelines de données ma
 Les indicateurs suivants sont générés et actualisés automatiquement :
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=be45e4d8e0e0f4f4" alt="Zie Mamadou GitHub Stats"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/stats.svg?v=448b9234df894678" alt="Zie Mamadou GitHub Stats"/>
 </p>
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=53703979aa9d94a2" alt="Zie Mamadou GitHub Streak and contribution activity"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/streak.svg?v=b92c4022fa014651" alt="Zie Mamadou GitHub Streak and contribution activity"/>
 </p>
 
 <details>
 <summary><b>Répartition des langages sur l'ensemble des dépôts</b></summary>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=4c63d89703f89390" alt="Zie Mamadou Top Languages"/>
+  <img width="100%" src="https://raw.githubusercontent.com/zie225/Zie225/master/profile/top-langs.svg?v=cdaa844f9eeaeaef" alt="Zie Mamadou Top Languages"/>
 </p>
 
 > *Les pourcentages sont calculés en fonction du langage principal de chaque dépôt public (hors forks).*
@@ -261,7 +261,7 @@ Les indicateurs suivants sont générés et actualisés automatiquement :
 
 | Repository | Main language | Last push |
 | :--- | :--- | :--- |
-| <a href="https://github.com/zie225/Github_profile_Mamadou">Github&#95;profile&#95;Mamadou</a> | Jupyter Notebook | 2026-10-22 |
+| <a href="https://github.com/zie225/Github_profile_Mamadou">Github&#95;profile&#95;Mamadou</a> | Jupyter Notebook | 2026-10-23 |
 | <a href="https://github.com/zie225/counting_people">counting&#95;people</a> | Not specified | 2025-05-02 |
 | <a href="https://github.com/zie225/-Voting-Bagging-random-forest">-Voting-Bagging-random-forest</a> | Jupyter Notebook | 2023-09-28 |
 | <a href="https://github.com/zie225/etl_airflow">etl&#95;airflow</a> | Jupyter Notebook | 2023-09-10 |
